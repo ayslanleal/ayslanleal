@@ -12,7 +12,7 @@
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original-wordmark.svg" />
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-plain.svg" />
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" />
-   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/icons/git/git-original.svg" />
+   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
    <img align="center" height="35" width="40" src="https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" />
    <img align="center" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" />
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" />
